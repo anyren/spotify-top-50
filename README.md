@@ -24,6 +24,7 @@
 
 Table 1.
 Dataframe | Original Column Name | New Column Name
+---|---|---
 2020 | id | rank
 2020 | artist_name | artist
 2021 | Unnamed: 0 | rank
@@ -53,6 +54,7 @@ Dataframe | Original Column Name | New Column Name
 
 Table 2.
 Column Name | Column Description
+---|---|---
 artist_name | Filter combined_df by unique values in the artist column. Rename the column to artist_name, and set inplace=True.
 artist_id | This column should contain the count of rows starting at 1 and incrementing by 1 for each row. 
 
