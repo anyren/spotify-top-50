@@ -6,7 +6,7 @@
 ## Collaborators
 * Adrian Wood
 * Amanda Nyren
-* Joey Eikins
+* Joey Eikens
 
 ## Data
 [Spotify Top 50 Tracks for 2020](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020) - put together by Kaggle user ATILLA COLAK  
