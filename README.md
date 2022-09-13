@@ -22,7 +22,7 @@
 3. In each dataframe, create a new column with the dataset year. Use the format YYYY.
 3. Rename the columns in each dataframe per Table 1.
 
-Table 1.
+**Table 1.**
 Dataframe | Original Column Name | New Column Name
 ---|---|---
 2020 | id | rank
@@ -52,9 +52,9 @@ Dataframe | Original Column Name | New Column Name
 #### Creating the artist dataframe
 1.  Create a dataframe containing the columns outlined in Table 2.
 
-Table 2.
+**Table 2.**
 Column Name | Column Description
----|---|---
+---|---
 artist_name | Filter combined_df by unique values in the artist column. Rename the column to artist_name, and set inplace=True.
 artist_id | This column should contain the count of rows starting at 1 and incrementing by 1 for each row. 
 
