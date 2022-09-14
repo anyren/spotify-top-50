@@ -3,6 +3,8 @@
 -----
 ## Overview
 
+We wanted to make it easy to analyze popular songs from Spotify. We found data for the top 50 tracks for the years 2020 and 2021 and did some cleaning and transformation to load them into a postgreSQL database where they can be analyzed further. This process could be repeated for future years to build on the dataset.
+
 ## Collaborators
 * Adrian Wood
 * Amanda Nyren
