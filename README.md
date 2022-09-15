@@ -14,7 +14,7 @@ We wanted to make it easy to analyze popular songs from Spotify. We found data f
 [Spotify Top 50 Tracks for 2020](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020) - put together by Kaggle user ATILLA COLAK  
 [Spotify Top 50 Tracks for 2021](https://www.kaggle.com/datasets/equinxx/spotify-top-50-songs-in-2021) - put together by Kaggle user HANNA YUKHYMENKO
 
-CSV files for both these data sets is in the `data` directory.
+CSV files for both these data sets are in the `data` directory.
 
 ## Instructions for Use
 
