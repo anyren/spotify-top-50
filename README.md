@@ -24,11 +24,11 @@ This code was written using Python 3.8 and requires the following packages:
 * psycopg2
 
 Steps to load data:
-1. Clone the repo
 1. Create a postgreSQL database named `spotify_top50`
 1. Run `schema.sql` from the project root to set up the required tables. Refer to the ERD below.
 ![schema diagram](schema.png)
 1. Create a `config.py` file in the project root and assign the password for your database user to the variable. `db_password`. 
-1. In the Jupyter Notebook, review the database configuration under the "Load" section and update if necessary
 1. Run the code in the Jupyter Notebook to perform the ETL steps
+
+**NOTE**: you may need to update the database configuration as outlined in the "Load" section of the jupyter notebook to match your local settings.
 
