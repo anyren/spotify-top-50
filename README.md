@@ -1,4 +1,4 @@
-(https://github.com/anyren/spotify-top-50/blob/main/Images/billboards_gif.gif)
+https://github.com/anyren/spotify-top-50/blob/main/Images/billboards_gif.gif
 
  # Spotify Top 50 2020-2021
 #### Project 2 for the University of Minnesota Data Analysis Boot Camp
