@@ -1,5 +1,3 @@
- ![Uploading ab67706c0000bebbee2440a8fd4602006216f55f - Copy.jfif…]()
- 
  # Spotify Top 50 2020-2021
 #### Project 2 for the University of Minnesota Data Analysis Boot Camp
 -----
